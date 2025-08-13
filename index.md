@@ -1,26 +1,25 @@
 ---
 layout: default
-title: NHBC How Tos
-nav_exclude: false
+title: Home
+nav_exclude: true
 ---
 
-# NHBC How Tos
+# Table of Contents
+{:.no_toc}
 
-## Table of Contents
+- TOC
 {:toc}
 
-<div id="sidebar-toc"></div>
+---
 
-## Introduction
+# Introduction
 Welcome to my site. This is the intro text.
 
-## Section One
+# Section One
 This section is all about **apples**.
 
-## Section Two
+# Section Two
 This section is about **bananas**.
 
-## Section Three
+# Section Three
 This section is about **cherries**.
-
-<script src="{{ '/assets/js/sidebar-toc.js' | relative_url }}"></script>
