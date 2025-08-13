@@ -5,14 +5,6 @@ toc: true
 nav_exclude: false
 ---
 
-# Table of Contents
-{:.no_toc}
-
-- TOC
-{:toc}
-
----
-
 # Introduction
 Welcome to my site. This is the intro text.
 
