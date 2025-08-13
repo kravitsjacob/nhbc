@@ -1,7 +1,9 @@
 ---
 layout: default
 title: Home
-nav_exclude: true
+# Add a TOC in the sidebar for this page
+nav_exclude: false
+toc: true
 ---
 
 # Table of Contents
