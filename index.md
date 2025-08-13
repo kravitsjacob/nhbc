@@ -1,30 +1,27 @@
 ---
 layout: default
 title: Home
-nav_order: 1
+nav_exclude: true
 ---
 
-# Welcome to My Site
+# My Site
 
-This site is written in **Markdown** and hosted for free on GitHub Pages.  
-It uses the [Just the Docs](https://just-the-docs.com/) theme for:
-- ✅ Search
-- ✅ Automatic Table of Contents
-- ✅ Clean navigation
+## Table of Contents
+{:.no_toc}
 
----
-
-## Example Table of Contents
-{: .no_toc }
-
-### Section One
-Some text here.
-
-### Section Two
-Some more text.
+- TOC
+{:toc}
 
 ---
 
-## Adding Images
+## Introduction
+Welcome to my site. This is the intro text.
 
-![Example image](assets/images/test.png)
+## Section One
+This section is all about **apples**.
+
+## Section Two
+This section is about **bananas**.
+
+## Section Three
+This section is about **cherries**.
