@@ -1,6 +1,8 @@
 title: NHBC How Tos
 description: Quick Tutorials for NHBC Planning Center Users
-theme: just-the-docs
+
+# Use the GitHub remote theme plugin
+remote_theme: just-the-docs/just-the-docs
 
 baseurl: "/nhbc"
 
