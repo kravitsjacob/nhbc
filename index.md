@@ -4,9 +4,7 @@ title: Home
 nav_exclude: true
 ---
 
-# My Site
-
-## Table of Contents
+# Table of Contents
 {:.no_toc}
 
 - TOC
@@ -14,14 +12,14 @@ nav_exclude: true
 
 ---
 
-## Introduction
+# Introduction
 Welcome to my site. This is the intro text.
 
-## Section One
+# Section One
 This section is all about **apples**.
 
-## Section Two
+# Section Two
 This section is about **bananas**.
 
-## Section Three
+# Section Three
 This section is about **cherries**.
