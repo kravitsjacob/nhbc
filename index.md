@@ -1,18 +1,23 @@
 ---
-layout: sidebar
+layout: default
 title: NHBC How Tos
-toc: true
 nav_exclude: false
 ---
 
-# Introduction
+# NHBC How Tos
+
+## Table of Contents
+
+{:toc}
+
+## Introduction
 Welcome to my site. This is the intro text.
 
-# Section One
+## Section One
 This section is all about **apples**.
 
-# Section Two
+## Section Two
 This section is about **bananas**.
 
-# Section Three
-This section is about **cherries**.
+## Section Three
+This section is all about **cherries**.
