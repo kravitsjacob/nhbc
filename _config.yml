@@ -10,3 +10,8 @@ search_enabled: true
 toc:
   min_level: 2
   max_level: 4
+
+# Enable sidebar table of contents
+nav:
+  sidebar:
+    toc: true

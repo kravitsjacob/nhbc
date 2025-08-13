@@ -2,6 +2,7 @@
 layout: default
 title: Home
 nav_exclude: true
+has_toc: true
 ---
 
 # Table of Contents
