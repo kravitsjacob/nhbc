@@ -1,8 +1,8 @@
 ---
-layout: default
-title: Home
-# Add a TOC in the sidebar for this page
+layout: sidebar
+title: NHBC How Tos
 toc: true
+nav_exclude: false
 ---
 
 # Table of Contents
