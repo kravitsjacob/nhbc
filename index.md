@@ -2,7 +2,6 @@
 layout: default
 title: Home
 # Add a TOC in the sidebar for this page
-nav_exclude: false
 toc: true
 ---
 
