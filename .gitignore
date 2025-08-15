@@ -1,0 +1,25 @@
+# Jekyll output
+_site/
+.sass-cache/
+.jekyll-cache/
+.jekyll-metadata
+
+# Bundler
+.bundle/
+vendor/
+
+# Ruby
+*.gem
+*.rbc
+
+# Logs and temp files
+log/
+tmp/
+*.log
+
+# OS-specific
+.DS_Store
+Thumbs.db
+
+# Optional: ignore lock file if you don't want to pin gems
+Gemfile.lock

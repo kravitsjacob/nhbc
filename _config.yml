@@ -1,5 +1,7 @@
 title: NHBC How Tos
 description: Quick Tutorials for NHBC Planning Center Users
+plugins:
+  - jekyll-remote-theme
 remote_theme: just-the-docs/just-the-docs
 baseurl: "/nhbc"
 
