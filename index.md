@@ -173,5 +173,27 @@ Want to add photos or videos to a service? No problem! Here’s how you can do i
 
 [Back to Table of Contents](#table-of-contents)
 
+# Songs
 
+## How to Quickly Listen to All the Songs Attached to a Service
 
+Want to hear all the songs planned for an upcoming service? Planning Center Services makes this super easy with a built-in playlist feature.
+
+Follow these simple steps:
+
+1. **Go to the Order Page for a Service**
+
+   * First, navigate to the order page of a service. You should be at a page that looks like this:
+    ![Step 1 - View the Order](/assets/images/order-step-4-view.png)
+   * If you need help, see the [How to Check the Order of a Service](#how-to-check-the-order-of-a-service) section above.
+
+2. **Start the Playlist**
+
+   * Look for the **Play** button at the top of the service order.
+   * Tap it to instantly start a playlist of all the songs attached to the service.
+   * You can listen directly from your phone.
+     ![Step 2 - Play Songs](/assets/images/how-to-quickly-listen-to-all-the-songs-attached-to-a-service-step-2.png)
+
+**Helpful Tip:** The "Play" feature lets Planning Center switch seamlessly between YouTube songs and mp3 songs - no need to jump between apps!
+
+[Back to Table of Contents](#table-of-contents)
