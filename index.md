@@ -112,65 +112,66 @@ Follow these simple steps:
 
 [Back to Table of Contents](#table-of-contents)
 
-## About Planning Center
+# Media (Images and Videos)
 
-Planning center is 
+## How to Upload an Image or Video
 
-Welcome to my site. This is the intro text.
+Want to add photos or videos to a service? No problem! Here’s how you can do it step by step.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus id placerat risus. Mauris varius, magna in laoreet tempus, quam nibh tempor justo, ac cursus dolor massa a nisi. Nulla a urna quis odio sollicitudin malesuada. Morbi ut ligula eget lorem blandit maximus ut sed ligula. Aenean et arcu convallis, semper eros sed, tincidunt eros. Donec maximus, risus vel tristique auctor, felis nulla sagittis lectus, vitae congue leo massa ut sapien. Interdum et malesuada fames ac ante ipsum primis in faucibus. Nulla accumsan varius rhoncus. Suspendisse egestas sagittis quam, sit amet pellentesque sem facilisis et.
+1. **Save the Media to Your Device**
 
-Suspendisse dui sapien, aliquet quis tempor vitae, accumsan vel nisl. In interdum feugiat viverra. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Aliquam gravida a erat sed consectetur. Sed iaculis, velit eget dapibus convallis, libero dolor pretium lacus, eget mollis sem nisi non nulla. Nullam id suscipit erat, pulvinar ullamcorper eros. Vestibulum viverra sapien et nisl finibus pulvinar.
+   * First, make sure the image or video is saved to your phone or computer.
+   * For example, if you find an image online, press and hold the picture to save it to your Photos app (on a phone) or right-click and save (on a computer).
+   * You can confirm it worked by checking your Photos app (on mobile) or your Downloads folder (on computer).
+     ![Step 1 - Save Media](/assets/images/how-to-upload-an-image-or-video-step-1.png)
+     ![Step 1 - Confirm Download](/assets/images/how-to-upload-an-image-or-video-step-2.png)
 
-Aliquam purus nulla, interdum vel eleifend eu, finibus sit amet est. Vestibulum egestas nisi tempor enim semper, in condimentum orci efficitur. In nec purus varius enim venenatis ultrices quis eu elit. Duis sem enim, mollis euismod lacinia sed, pulvinar quis nisl. Quisque tempor vulputate bibendum. Suspendisse nec elit ut metus ultrices dapibus id id turpis. Praesent sodales magna ut nibh auctor, ut auctor est ullamcorper. Maecenas vel lacinia felis, non tempus arcu. Aliquam sit amet elit nec mauris imperdiet feugiat. Morbi pellentesque imperdiet elit, nec dapibus metus pellentesque vel.
+2. **Log in to Planning Center Services Website**
 
-Pellentesque velit nunc, pretium et lacus nec, consequat elementum dolor. Cras ut nibh quam. Donec suscipit vitae sem vitae luctus. Maecenas elementum justo tortor, ut porttitor nisi scelerisque quis. Quisque accumsan mauris dolor, id auctor metus lobortis in. Etiam et vulputate ipsum. Phasellus eu pharetra sapien, non aliquam enim. In nec sem augue. Quisque quis justo commodo, volutpat nulla at, elementum mauris. Donec porta justo et enim mattis ultricies. Quisque condimentum posuere sem eu semper. Vivamus rhoncus odio et velit ullamcorper, eget aliquam dolor ultricies. Pellentesque rhoncus quam et purus rhoncus, in porta lacus porta. Aliquam maximus, eros at vehicula fringilla, metus turpis rhoncus est, nec congue elit augue non erat. In hac habitasse platea dictumst.
+   * Go to [login.planningcenteronline.com](https://login.planningcenteronline.com) and sign in. If you need help signing in, see the [Signing In To Planning Center Services](#signing-in-to-planning-center-services) section above.
+   * Once logged in, you should see the Services screen. If you don't see this, tap the **“Services”** button at the bottom.
+     ![Step 2 - Services Screen](/assets/images/how-to-upload-an-image-or-video-step-3.png)
 
-Proin euismod tincidunt nisl, et faucibus erat lacinia sed. Aliquam erat volutpat. Fusce vulputate vestibulum euismod. Vivamus commodo molestie erat, non auctor nisl cursus eget. Vivamus rutrum non elit at porttitor. Integer egestas lacinia nisi vitae suscipit. In eu egestas turpis, et porttitor massa.
+3. **Select the Service You Want to Update**
 
-[Back to Table of Contents](#table-of-contents)
+   * Choose the service where you want to add the photo or video.
+   * For example: August 17, 2025.
+     ![Step 3 - Select Service](/assets/images/how-to-upload-an-image-or-video-step-4.png)
 
-## Section One
-This section is all about **apples**.
+4. **Go to the Order Section**
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus id placerat risus. Mauris varius, magna in laoreet tempus, quam nibh tempor justo, ac cursus dolor massa a nisi. Nulla a urna quis odio sollicitudin malesuada. Morbi ut ligula eget lorem blandit maximus ut sed ligula. Aenean et arcu convallis, semper eros sed, tincidunt eros. Donec maximus, risus vel tristique auctor, felis nulla sagittis lectus, vitae congue leo massa ut sapien. Interdum et malesuada fames ac ante ipsum primis in faucibus. Nulla accumsan varius rhoncus. Suspendisse egestas sagittis quam, sit amet pellentesque sem facilisis et.
+   * From the dropdown, select **“Order.”**
+     ![Step 4 - Order Section](/assets/images/how-to-upload-an-image-or-video-step-5.png)
 
-Suspendisse dui sapien, aliquet quis tempor vitae, accumsan vel nisl. In interdum feugiat viverra. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Aliquam gravida a erat sed consectetur. Sed iaculis, velit eget dapibus convallis, libero dolor pretium lacus, eget mollis sem nisi non nulla. Nullam id suscipit erat, pulvinar ullamcorper eros. Vestibulum viverra sapien et nisl finibus pulvinar.
+5. **Find the Correct Item**
 
-Aliquam purus nulla, interdum vel eleifend eu, finibus sit amet est. Vestibulum egestas nisi tempor enim semper, in condimentum orci efficitur. In nec purus varius enim venenatis ultrices quis eu elit. Duis sem enim, mollis euismod lacinia sed, pulvinar quis nisl. Quisque tempor vulputate bibendum. Suspendisse nec elit ut metus ultrices dapibus id id turpis. Praesent sodales magna ut nibh auctor, ut auctor est ullamcorper. Maecenas vel lacinia felis, non tempus arcu. Aliquam sit amet elit nec mauris imperdiet feugiat. Morbi pellentesque imperdiet elit, nec dapibus metus pellentesque vel.
+   * Select the item where you want to attach the media.
+   * For example: **“Sermon Media (date).”**
+     ![Step 5 - Select Item](/assets/images/how-to-upload-an-image-or-video-step-6.png)
 
-Pellentesque velit nunc, pretium et lacus nec, consequat elementum dolor. Cras ut nibh quam. Donec suscipit vitae sem vitae luctus. Maecenas elementum justo tortor, ut porttitor nisi scelerisque quis. Quisque accumsan mauris dolor, id auctor metus lobortis in. Etiam et vulputate ipsum. Phasellus eu pharetra sapien, non aliquam enim. In nec sem augue. Quisque quis justo commodo, volutpat nulla at, elementum mauris. Donec porta justo et enim mattis ultricies. Quisque condimentum posuere sem eu semper. Vivamus rhoncus odio et velit ullamcorper, eget aliquam dolor ultricies. Pellentesque rhoncus quam et purus rhoncus, in porta lacus porta. Aliquam maximus, eros at vehicula fringilla, metus turpis rhoncus est, nec congue elit augue non erat. In hac habitasse platea dictumst.
+6. **Open the Media Tab**
 
-Proin euismod tincidunt nisl, et faucibus erat lacinia sed. Aliquam erat volutpat. Fusce vulputate vestibulum euismod. Vivamus commodo molestie erat, non auctor nisl cursus eget. Vivamus rutrum non elit at porttitor. Integer egestas lacinia nisi vitae suscipit. In eu egestas turpis, et porttitor massa.
+   * Tap on the **Media** tab to manage files.
+     ![Step 6 - Media Tab](/assets/images/how-to-upload-an-image-or-video-step-7.png)
 
-[Back to Table of Contents](#table-of-contents)
+7. **Edit Attached Media**
 
-## Section Two
-This section is about **bananas**.
+   * Select the option to edit the attached media.
+     ![Step 7 - Edit Media](/assets/images/how-to-upload-an-image-or-video-step-8.png)
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus id placerat risus. Mauris varius, magna in laoreet tempus, quam nibh tempor justo, ac cursus dolor massa a nisi. Nulla a urna quis odio sollicitudin malesuada. Morbi ut ligula eget lorem blandit maximus ut sed ligula. Aenean et arcu convallis, semper eros sed, tincidunt eros. Donec maximus, risus vel tristique auctor, felis nulla sagittis lectus, vitae congue leo massa ut sapien. Interdum et malesuada fames ac ante ipsum primis in faucibus. Nulla accumsan varius rhoncus. Suspendisse egestas sagittis quam, sit amet pellentesque sem facilisis et.
+8. **Upload Your File**
 
-Suspendisse dui sapien, aliquet quis tempor vitae, accumsan vel nisl. In interdum feugiat viverra. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Aliquam gravida a erat sed consectetur. Sed iaculis, velit eget dapibus convallis, libero dolor pretium lacus, eget mollis sem nisi non nulla. Nullam id suscipit erat, pulvinar ullamcorper eros. Vestibulum viverra sapien et nisl finibus pulvinar.
+   * Scroll down to the file upload box and click **“Click here to add your file.”**
+     ![Step 8 - Upload Box](/assets/images/how-to-upload-an-image-or-video-step-9.png)
 
-Aliquam purus nulla, interdum vel eleifend eu, finibus sit amet est. Vestibulum egestas nisi tempor enim semper, in condimentum orci efficitur. In nec purus varius enim venenatis ultrices quis eu elit. Duis sem enim, mollis euismod lacinia sed, pulvinar quis nisl. Quisque tempor vulputate bibendum. Suspendisse nec elit ut metus ultrices dapibus id id turpis. Praesent sodales magna ut nibh auctor, ut auctor est ullamcorper. Maecenas vel lacinia felis, non tempus arcu. Aliquam sit amet elit nec mauris imperdiet feugiat. Morbi pellentesque imperdiet elit, nec dapibus metus pellentesque vel.
+9. **Browse and Select Your Media**
 
-Pellentesque velit nunc, pretium et lacus nec, consequat elementum dolor. Cras ut nibh quam. Donec suscipit vitae sem vitae luctus. Maecenas elementum justo tortor, ut porttitor nisi scelerisque quis. Quisque accumsan mauris dolor, id auctor metus lobortis in. Etiam et vulputate ipsum. Phasellus eu pharetra sapien, non aliquam enim. In nec sem augue. Quisque quis justo commodo, volutpat nulla at, elementum mauris. Donec porta justo et enim mattis ultricies. Quisque condimentum posuere sem eu semper. Vivamus rhoncus odio et velit ullamcorper, eget aliquam dolor ultricies. Pellentesque rhoncus quam et purus rhoncus, in porta lacus porta. Aliquam maximus, eros at vehicula fringilla, metus turpis rhoncus est, nec congue elit augue non erat. In hac habitasse platea dictumst.
+   * Choose the **Browse** option and select your saved photo or video.
+     ![Step 9 - Browse File](/assets/images/how-to-upload-an-image-or-video-step-10.png)
 
-Proin euismod tincidunt nisl, et faucibus erat lacinia sed. Aliquam erat volutpat. Fusce vulputate vestibulum euismod. Vivamus commodo molestie erat, non auctor nisl cursus eget. Vivamus rutrum non elit at porttitor. Integer egestas lacinia nisi vitae suscipit. In eu egestas turpis, et porttitor massa.
-
-[Back to Table of Contents](#table-of-contents)
-
-## Section Three
-This section is about **cherries**.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus id placerat risus. Mauris varius, magna in laoreet tempus, quam nibh tempor justo, ac cursus dolor massa a nisi. Nulla a urna quis odio sollicitudin malesuada. Morbi ut ligula eget lorem blandit maximus ut sed ligula. Aenean et arcu convallis, semper eros sed, tincidunt eros. Donec maximus, risus vel tristique auctor, felis nulla sagittis lectus, vitae congue leo massa ut sapien. Interdum et malesuada fames ac ante ipsum primis in faucibus. Nulla accumsan varius rhoncus. Suspendisse egestas sagittis quam, sit amet pellentesque sem facilisis et.
-
-Suspendisse dui sapien, aliquet quis tempor vitae, accumsan vel nisl. In interdum feugiat viverra. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Aliquam gravida a erat sed consectetur. Sed iaculis, velit eget dapibus convallis, libero dolor pretium lacus, eget mollis sem nisi non nulla. Nullam id suscipit erat, pulvinar ullamcorper eros. Vestibulum viverra sapien et nisl finibus pulvinar.
-
-Aliquam purus nulla, interdum vel eleifend eu, finibus sit amet est. Vestibulum egestas nisi tempor enim semper, in condimentum orci efficitur. In nec purus varius enim venenatis ultrices quis eu elit. Duis sem enim, mollis euismod lacinia sed, pulvinar quis nisl. Quisque tempor vulputate bibendum. Suspendisse nec elit ut metus ultrices dapibus id id turpis. Praesent sodales magna ut nibh auctor, ut auctor est ullamcorper. Maecenas vel lacinia felis, non tempus arcu. Aliquam sit amet elit nec mauris imperdiet feugiat. Morbi pellentesque imperdiet elit, nec dapibus metus pellentesque vel.
-
-Pellentesque velit nunc, pretium et lacus nec, consequat elementum dolor. Cras ut nibh quam. Donec suscipit vitae sem vitae luctus. Maecenas elementum justo tortor, ut porttitor nisi scelerisque quis. Quisque accumsan mauris dolor, id auctor metus lobortis in. Etiam et vulputate ipsum. Phasellus eu pharetra sapien, non aliquam enim. In nec sem augue. Quisque quis justo commodo, volutpat nulla at, elementum mauris. Donec porta justo et enim mattis ultricies. Quisque condimentum posuere sem eu semper. Vivamus rhoncus odio et velit ullamcorper, eget aliquam dolor ultricies. Pellentesque rhoncus quam et purus rhoncus, in porta lacus porta. Aliquam maximus, eros at vehicula fringilla, metus turpis rhoncus est, nec congue elit augue non erat. In hac habitasse platea dictumst.
-
-Proin euismod tincidunt nisl, et faucibus erat lacinia sed. Aliquam erat volutpat. Fusce vulputate vestibulum euismod. Vivamus commodo molestie erat, non auctor nisl cursus eget. Vivamus rutrum non elit at porttitor. Integer egestas lacinia nisi vitae suscipit. In eu egestas turpis, et porttitor massa. 
+**You did it!** Your photo or video is now uploaded and attached to the service.
 
 [Back to Table of Contents](#table-of-contents)
+
+
+
