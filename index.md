@@ -11,7 +11,81 @@ has_toc: true
 1. TOC
 {:toc}
 
-## Introduction
+# Getting Started
+
+## What is Planning Center Services?
+
+Planning Center Services is a web-based church management software that helps organize worship services, schedule volunteers, and plan music. It streamlines church service planning and team coordination.
+
+[Back to Table of Contents](#table-of-contents)
+
+## Signing In To Planning Center Services
+
+Getting started is easy! Here's what you need to do:
+
+1. First, give Jacob your email address. This is important because:
+   - You'll receive important updates about your schedule
+   - You can easily reset your password if you forget it
+
+2. After Jacob adds your email, you'll receive a welcome message with instructions.
+
+3. Watch this helpful video guide that shows you how to sign in:
+   
+   To watch the video, [click this link](https://www.youtube.com/watch?v=Nx2HHIl5mAc)
+   
+   Or you can type this address in your web browser: 
+   https://www.youtube.com/watch?v=Nx2HHIl5mAc
+   
+   Don't worry if you're using a phone instead of a computer - the steps are the same!
+
+Need help? Just ask Jacob!
+
+[Back to Table of Contents](#table-of-contents)
+
+## Ways To Use Planning Center Services
+
+You can use Planning Center Services in two ways:
+
+### 1. Through a Web Browser
+- Works on any computer or phone
+- Just go to: [login.planningcenteronline.com](https://login.planningcenteronline.com)
+- Here's what it looks like:
+
+![Planning Center in a web browser](/assets/images/browser-general.png)
+
+### 2. Through the Mobile App
+- Available for both iPhone and Android phones
+- The app looks and works the same on both types of phones
+- Download links:
+  - iPhone users: [Download from the App Store](https://apps.apple.com/us/app/planning-center-services/id327370808)
+  - Android users: [Download from Google Play](https://play.google.com/store/apps/details?id=com.ministrycentered.PlanningCenter)
+- Here's what the app looks like:
+
+![Planning Center mobile app](/assets/images/app-general.png)
+
+**Important: We strongly recommend setting up both the website and the app!**
+
+Having both options available will make your experience much better. Here's why:
+
+**The web browser version is best for:**
+- Adding or uploading files (like music sheets or documents)
+- Making big changes to a service
+- Setting up new services
+
+**The phone app is perfect for:**
+- Checking your schedule on
+- Listening to upcoming songs
+- Making quick changes
+- Getting instant reminders about your upcoming events
+
+Think of it like having both a computer and a phone - each one is better for certain tasks, and having both makes everything easier! Make sure to set up both so you don't miss out on any features.
+
+[Back to Table of Contents](#table-of-contents)
+
+## About Planning Center
+
+Planning center is 
+
 Welcome to my site. This is the intro text.
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus id placerat risus. Mauris varius, magna in laoreet tempus, quam nibh tempor justo, ac cursus dolor massa a nisi. Nulla a urna quis odio sollicitudin malesuada. Morbi ut ligula eget lorem blandit maximus ut sed ligula. Aenean et arcu convallis, semper eros sed, tincidunt eros. Donec maximus, risus vel tristique auctor, felis nulla sagittis lectus, vitae congue leo massa ut sapien. Interdum et malesuada fames ac ante ipsum primis in faucibus. Nulla accumsan varius rhoncus. Suspendisse egestas sagittis quam, sit amet pellentesque sem facilisis et.
