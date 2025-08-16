@@ -51,7 +51,7 @@ You can use Planning Center Services in two ways:
 - Just go to: [login.planningcenteronline.com](https://login.planningcenteronline.com)
 - Here's what it looks like:
 
-![Planning Center in a web browser](/assets/images/browser-general.png)
+![Planning Center in a web browser](/assets/images/planning-center-browser.png)
 
 ### 2. Through the Mobile App
 - Available for both iPhone and Android phones
@@ -61,7 +61,7 @@ You can use Planning Center Services in two ways:
   - Android users: [Download from Google Play](https://play.google.com/store/apps/details?id=com.ministrycentered.PlanningCenter)
 - Here's what the app looks like:
 
-![Planning Center mobile app](/assets/images/app-general.png)
+![Planning Center mobile app](/assets/images/planning-center-app.png)
 
 **Important: We strongly recommend setting up both the website and the app!**
 
@@ -79,6 +79,36 @@ Having both options available will make your experience much better. Here's why:
 - Getting instant reminders about your upcoming events
 
 Think of it like having both a computer and a phone - each one is better for certain tasks, and having both makes everything easier! Make sure to set up both so you don't miss out on any features.
+
+[Back to Table of Contents](#table-of-contents)
+
+## How to Check the Order of a Service
+
+Want to see what's happening in an upcoming service? It's easy! We'll show you how to find the order of any service using the app on your phone (this is the easiest way).
+
+Follow these simple steps:
+
+1. **Open the Plans Screen**
+   - Open your Planning Center app
+   - Look for and tap on the "Plans" button
+   ![Step 1 - Open Plans Screen](/assets/images/order-step-1-plans.png)
+
+2. **Choose Your Service Type**
+   - You'll see different types of services
+   - Tap on "Sunday Service" (or whichever service you're looking for)
+   ![Step 2 - Choose Service Type](/assets/images/order-step-2-service-type.png)
+
+3. **Pick the Date**
+   - Find and tap the date you want to check
+   - For example: August 17, 2025
+   ![Step 3 - Pick the Date](/assets/images/order-step-3-date.png)
+
+4. **View the Order**
+   - Look for the "Order" tab
+   - Here you'll see everything that's planned for the service in order
+   ![Step 4 - View the Order](/assets/images/order-step-4-view.png)
+
+**Helpful Tip:** You can always check this before the service to know what to expect and be prepared!
 
 [Back to Table of Contents](#table-of-contents)
 
