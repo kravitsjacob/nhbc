@@ -48,7 +48,7 @@ You can use Planning Center Services in two ways:
 
 ### 1. Through a Web Browser
 - Works on any computer or phone
-- Just go to: [login.planningcenteronline.com](https://login.planningcenteronline.com)
+- Just go to: [services.planningcenteronline.com](https://services.planningcenteronline.com)
 - Here's what it looks like:
 
 ![Planning Center in a web browser](/assets/images/planning-center-browser.png)
@@ -128,7 +128,7 @@ Want to add photos or videos to a service? No problem! Here’s how you can do i
 
 2. **Log in to Planning Center Services Website**
 
-   * Go to [login.planningcenteronline.com](https://login.planningcenteronline.com) and sign in. If you need help signing in, see the [Signing In To Planning Center Services](#signing-in-to-planning-center-services) section above.
+   * Go to [services.planningcenteronline.com](https://services.planningcenteronline.com) and sign in. If you need help signing in, see the [Signing In To Planning Center Services](#signing-in-to-planning-center-services) section above.
    * Once logged in, you should see the Services screen. If you don't see this, tap the **“Services”** button at the bottom.
      ![Step 2 - Services Screen](/assets/images/how-to-upload-an-image-or-video-step-3.png)
 
